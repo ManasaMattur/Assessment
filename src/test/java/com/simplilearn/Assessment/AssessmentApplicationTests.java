@@ -1,4 +1,4 @@
-package com.simplilearn.assessment;
+package com.simplilearn.Assessment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
