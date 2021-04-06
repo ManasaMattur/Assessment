@@ -1,4 +1,4 @@
-package com.simplilearn.Assessment;
+package com.simplilearn.assessment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
