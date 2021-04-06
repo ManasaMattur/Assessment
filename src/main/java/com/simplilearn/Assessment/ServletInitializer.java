@@ -1,4 +1,4 @@
-package com.simplilearn.assessment;
+package com.simplilearn.Assessment;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
